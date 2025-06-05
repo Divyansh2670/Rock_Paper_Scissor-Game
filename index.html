@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <!-- Font Awesome for icons -->
+    <script
+      src="https://kit.fontawesome.com/a076d05399.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Rock Paper Scissor Game</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="scores">
+        <p>
+          Computer :
+          <span id="computer_score">0</span>
+        </p>
+        <p>
+          You :
+          <span id="user_score">0</span>
+        </p>
+      </div>
+      <div class="weapons">
+        <button onclick="checker('rock')">
+          <img
+            src="https://img.icons8.com/?size=100&id=CjFdbYhgfCMS&format=png&color=000000"
+            alt="Rock"
+            class="weapon-img"
+          />
+        </button>
+        <button onclick="checker('paper')">
+          <img
+            src="https://img.icons8.com/?size=100&id=KRXpHoxTdjNQ&format=png&color=000000"
+            alt="Paper"
+            class="weapon-img"
+          />
+        </button>
+        <button onclick="checker('scissor')">
+          <img
+            src="https://img.icons8.com/?size=100&id=1gPHPgcvXSIY&format=png&color=000000"
+            alt="Scissor"
+            class="weapon-img"
+          />
+        </button>
+      </div>
+      <div class="details">
+        <p id="user_choice"></p>
+        <p id="comp_choice"></p>
+        <p id="result"></p>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
