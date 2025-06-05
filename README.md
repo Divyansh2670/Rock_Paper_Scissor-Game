@@ -1,12 +1,3 @@
-# Rock_Paper_Scissor-Game
-
-Here's a professional and beginner-friendly `README.md` file for your **Rock-Paper-Scissors Game**:
-
----
-
-### 📄 `README.md`
-
-```markdown
 # 🪨📄✂️ Rock Paper Scissors Game
 
 A simple and fun Rock-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScript**.
@@ -18,7 +9,6 @@ This project lets users play Rock-Paper-Scissors against the computer, keeping t
 ## 🎮 Live Demo
 
 [Click here to play the game](https://your-github-username.github.io/Rock_Paper_Scissor-Game/)  
-*(Replace with your GitHub Pages link after publishing)*
 
 ---
 
@@ -48,13 +38,6 @@ This project lets users play Rock-Paper-Scissors against the computer, keeping t
 ├── script.js           # Game logic
 
 ````
-
----
-
-## 🖼️ Image Credits
-
-Images used for Rock, Paper, and Scissors icons are linked from [Wikipedia Commons] or other open sources.  
-You can replace them with any public or custom URLs.
 
 ---
 
@@ -105,10 +88,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Divyansh Sharma**
 [GitHub](https://github.com/Divyansh2670) | [LinkedIn](https://www.linkedin.com/in/divyansh-sharma-3362b1247/)
-
-```
-
----
-
-Would you like me to generate a version with GitHub-flavored emojis and markdown styling applied visually? Or should I create the `README.md` file and include it in your local project structure?
-```
